@@ -1,3 +1,6 @@
+<script src="http://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+
+
 //Creates an array of numbers that can be used as the target number
 //Computer chooses a number from that array
 //Creates an array of numbers 1-12 that are to be assigned to the crystals
